@@ -26,9 +26,8 @@ pipeline {
                 echo 'Deliver....'
                 sh '''
                 echo "doing delivery stuff.."
-                echo "NAME: RAMA KASHYAP EDDU"
+                echo "NAME: Mahathi Kasuganti"
                 echo "ROLL: SE21UCSE058"
-                echo "user: kashyap_SE21UCSE058"
                 '''
             }
         }
